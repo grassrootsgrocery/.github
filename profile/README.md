@@ -4,4 +4,4 @@ Grassroots Grocery is a nonprofit powered by a network of neighbors helping neig
 ## Tech @ Grassroots Grocery
 We're powered by really cool tech that is 100% volunteer-created! We use low-code and no-code platforms, as well as traditional coding. This is our home on GitHub for our code, which we host publicly and encourage open source contributions to.
 ## Contact Us
-If you're interested in contributing to our software projects, email dan@grassrootsgrocery.org or matt@grassrootsgrocery.org
+If you're interested in contributing to our software projects, email dan@grassrootsgrocery.org, jordan@grassrootsgrocery.org, tohidul@grassrootsgrocery.org, matt@grassrootsgrocery.org
